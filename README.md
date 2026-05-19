@@ -74,7 +74,7 @@ ChhunKuySreng.github.io/
 
 ---
 
-## MY CV
+## 💼 My Resume
 
 ![Alt text](./CV-ChhunKuySreng.jpg)
 

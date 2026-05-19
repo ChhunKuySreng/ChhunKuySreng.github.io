@@ -74,6 +74,10 @@ ChhunKuySreng.github.io/
 
 ---
 
+## MY CV
+
+![Alt text](./CV-ChhunKuySreng.jpg)
+
 ## 🔧 How to Update
 
 1. Edit `index.html` directly on GitHub (click the pencil ✏️ icon)
